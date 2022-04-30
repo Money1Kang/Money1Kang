@@ -6,9 +6,9 @@ Encourage me! Thanks
 
 ---
 
-**Money1Kang/Money1Kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Money1Kang/Money1Kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+
 ## My otherthing
 <a href="https://www.instagram.com/jp_kang0425/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="http:jpk0425.tistory.com/" target="_blank">T-story  : http:jpk0425.tistory.com/</a>
