@@ -4,7 +4,8 @@ I wondered who I am for last few years,,
 I had never thought to be a programmer... but,, I am doing this job or sort of this part..
 Encourage me! Thanks
 
-<!--
+---
+
 **Money1Kang/Money1Kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,6 +13,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/jp_kang0425/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="www.jpk0425.tistory.com/" target="_blank">T-story  : www.jpk0425.tistory.com/</a>
 <a href="http://velog.io/@fingercompliment" target="_blank">Velog :  http://velog.io/@fingercompliment</a>
+
+---
 
 ## TechStack 
 
@@ -22,3 +25,5 @@ Here are some ideas to get you started:
   <img align="center" alt="JPKang-CSS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JPKang-Node" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   </div>
+  
+---
