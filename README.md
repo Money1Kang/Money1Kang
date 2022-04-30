@@ -11,7 +11,7 @@ Encourage me! Thanks
 
 ## My otherthing
 <a href="https://www.instagram.com/jp_kang0425/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="http:jpk0425.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-T#story-%23E4405F?style=for-the-badge&logo=story&logoColor=white" target="_blank"></a>
+<a href="http:jpk0425.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tstory-%23E4405F?style=for-the-badge&logo=Tstory&logoColor=white" target="_blank"></a>
 <a href="http://velog.io/@fingercompliment" target="_blank"><img src="https://img.shields.io/badge/-Velog-%23E4405F?style=for-the-badge&logo=Velog&logoColor=white" target="_blank"></a></a>
 
 ---
