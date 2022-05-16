@@ -1,8 +1,4 @@
-### Hello, there! I'm J.P Kang  :) ######## 👋
-I had have studied something in Seattle for about 5 year.
-I wondered specifically who I am for last few years,,
-I had never thought to be a programmer... but,, I am doing this job or sort of this part..
-Encourage me! Thanks
+### Hello, there! :) ######## 👋
 
 ---
 
