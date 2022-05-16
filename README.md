@@ -16,7 +16,7 @@
 
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+  ![SQL](https://img.shields.io/badge/-SQL-F05032?style=for-the-badge&logo=SQL&logoColor=ffffff)
 
   
 ---
