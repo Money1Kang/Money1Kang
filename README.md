@@ -42,4 +42,4 @@
   
 ![Eclipse](https://img.shields.io/badge/-eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Visual Studio][https://img.shields.io/badge/-visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
