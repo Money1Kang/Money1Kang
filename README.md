@@ -47,3 +47,6 @@
 ----
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmm335)](https://solved.ac/mmm335/)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP Kang&layout=demo&theme=dark)
