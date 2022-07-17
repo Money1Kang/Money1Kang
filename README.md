@@ -49,4 +49,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmm335)](https://solved.ac/mmm335/)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPKang&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Money1Kang&layout=compact&theme=dark)
