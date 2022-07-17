@@ -45,7 +45,7 @@
 ![Visual Studio](https://img.shields.io/badge/-visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ----
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmm335)](https://solved.ac/mmm335)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmm335)](https://solved.ac/mmm335/)
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Money1Kang&layout=compact&theme=dark)
